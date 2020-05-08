@@ -4,34 +4,43 @@
 笑话段子网，内涵段子网站，幽默笑话网站源码，无聊看看网项目源码，个人建站系统模板
 
 #### 软件架构
-软件架构说明
+springmvc+mybatis+freemaker
+
+-------------------------- 源码可出售，具体请加微信happybabby110咨询 ----------------------
+
+#### 软件特色
+
+1、PC移动端一体站
+
+2、基础功能齐全，二次拓展方便
+
+3、前后台可提供源码，二次开发灰常简单
 
 
-#### 安装教程
+#### 软件截图
+![内涵段子网站](https://images.gitee.com/uploads/images/2020/0508/150618_af241a34_4908820.jpeg "幽默笑话网站源码.jpg")
+![内涵段子网站](https://images.gitee.com/uploads/images/2020/0508/150632_d6c195c1_4908820.jpeg "幽默笑话网站源码.jpg")
+![内涵段子网站](https://images.gitee.com/uploads/images/2020/0508/150643_3797d7c7_4908820.jpeg "幽默笑话网站源码.jpg")
+![内涵段子网站](https://images.gitee.com/uploads/images/2020/0508/150654_27037e2f_4908820.jpeg "幽默笑话网站源码.jpg")
+![内涵段子网站](https://images.gitee.com/uploads/images/2020/0508/150702_c6d83a3b_4908820.jpeg "幽默笑话网站源码.jpg")
+![内涵段子网站](https://images.gitee.com/uploads/images/2020/0508/150720_3590f35c_4908820.jpeg "幽默笑话网站源码.jpg")
+![内涵段子网站](https://images.gitee.com/uploads/images/2020/0508/150731_ba347ada_4908820.jpeg "幽默笑话网站源码.jpg")
+#### 体验地址
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+https://www.wuliaokankan.cn/
+https://www.wuliaokankan.cn/short_cate/1.html
+https://www.wuliaokankan.cn/long_cate/18.html
 
 
-#### 码云特技
+#### 楼主其他系统及方案
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+[微信个人号淘客返利机器人项目](https://gitee.com/tangjinjinwx/wechatbot)
+
+[微信公众号淘客查券返利系统项目](https://gitee.com/tangjinjinwx/wechatfanli)
+
+[淘宝客查券返利CMS项目](https://gitee.com/tangjinjinwx/taokecms)
+
+[工作手机SDK项目](https://gitee.com/tangjinjinwx/workphone)
+
+
+#### 合作咨询请加微信happybabby110
