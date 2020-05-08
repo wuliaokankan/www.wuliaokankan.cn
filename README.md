@@ -28,7 +28,9 @@ springmvc+mybatis+freemaker
 #### 体验地址
 
 https://www.wuliaokankan.cn/
+
 https://www.wuliaokankan.cn/short_cate/1.html
+
 https://www.wuliaokankan.cn/long_cate/18.html
 
 
@@ -42,5 +44,8 @@ https://www.wuliaokankan.cn/long_cate/18.html
 
 [工作手机SDK项目](https://gitee.com/tangjinjinwx/workphone)
 
+[个人微信开发SDK项目](https://gitee.com/tangjinjinwx/Public.WeChat.CRM.SDK/)
+
+[个人博客系统项目](https://gitee.com/tangjinjinwx/wuliaocms)
 
 #### 合作咨询请加微信happybabby110
